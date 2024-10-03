@@ -144,3 +144,9 @@ O(2ⁿ) - Exponential time
 O(n!) - Factorial time
 Summary
 Understanding time complexity is crucial for designing efficient algorithms. Algorithms with lower time complexities like O(1), O(log n), and O(n) scale well with larger inputs, while those with higher time complexities like O(n²), O(2ⁿ), and O(n!) should be avoided for large datasets. Efficient algorithms can greatly improve performance, especially in applications that handle large amounts of data.
+
+
+
+
+
+
